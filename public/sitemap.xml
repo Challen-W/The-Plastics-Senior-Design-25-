@@ -44,6 +44,8 @@
     <loc>//localhost:4321/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/post/2020-12-01-r-rmarkdown/senior-design-website/</loc>
+  </url><url>
     <loc>//localhost:4321/en/about/</loc>
   </url><url>
     <loc>//localhost:4321/categories/</loc>
@@ -51,5 +53,7 @@
     <loc>//localhost:4321/en/contact/</loc>
   </url><url>
     <loc>//localhost:4321/fr/contact/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/</loc>
   </url>
 </urlset>
